@@ -420,7 +420,7 @@ nav {
   letter-spacing: 4px;
   text-transform: uppercase;
   color: var(--gold);
-  margin-bottom: 28px;
+  margin-bottom: 24px;
   font-weight: 400;
 }
 
@@ -1707,7 +1707,7 @@ footer a:hover {
   }
   .hero-content h1 {
     text-align: center;
-    margin: 30px auto;
+    margin: 25px auto;
   }
   .nav-links {
     display: none;
@@ -1751,7 +1751,7 @@ footer a:hover {
     min-height: 100vh;
     display: flex;
     align-items: center;
-    padding: 80px 20px 40px;
+    padding: 20px 20px 40px;
   }
   .hero-layout {
     gap: 24px;
@@ -1759,11 +1759,11 @@ footer a:hover {
   .hero-label {
     font-size: 11px;
     letter-spacing: 3px;
-    margin-bottom: 14px;
+    margin-bottom: 0.1%;
   }
   .hero-title {
     font-size: 44px;
-    margin-bottom: 2px;
+    margin-bottom: 1px;
   }
   .hero-title em {
     font-size: 48px;
